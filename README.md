@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Isabella(AI friend for me)<br>🌱 I’m currently learning AI<br>💬 Ask me about Frontend
+🔭 I’m currently working on Isabella(AI friend for me)<br>🌱 I’m currently learning Backend with Python<br>💬 Ask me about Frontend
 
 
 ## 🌐 Socials:
